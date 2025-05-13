@@ -17,4 +17,4 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  relative_time: ^1.0.0
+  relativetimeago: ^1.0.2
