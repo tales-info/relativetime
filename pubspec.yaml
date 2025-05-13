@@ -1,0 +1,34 @@
+name: relativetime
+description: >
+  A lightweight and customizable Dart library to format relative time expressions
+  like "2 hours ago", "in 3 days", or "now". Supports abbreviations, thresholds,
+  custom labels and more.
+version: 1.0.0
+homepage: https://github.com/tales-info/relativetime
+repository: https://github.com/tales-info/relativetime
+issue_tracker: https://github.com/tales-info/relativetime/issues
+
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
+
+
+topics:
+  - time
+  - datetime
+  - formatting
+  - human-readable
+  - localization
+
+# Optional: make this library better discoverable
+funding:
+  - https://github.com/sponsors/tales-info
