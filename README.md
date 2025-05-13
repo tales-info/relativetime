@@ -1,4 +1,4 @@
-# relative_time
+# Relative Time
 
 A lightweight and customizable Dart library to format relative time expressions like _"2 hours ago"_, _"in 3 days"_, or simply _"now"_ — in English or other languages, with support for abbreviation, custom prefixes, and more.
 
