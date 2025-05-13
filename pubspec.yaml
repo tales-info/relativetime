@@ -1,4 +1,4 @@
-name: relativetime
+name: relativetimeago
 description: >
   A lightweight and customizable Dart library to format relative time expressions
   like "2 hours ago", "in 3 days", or "now". Supports abbreviations, thresholds,

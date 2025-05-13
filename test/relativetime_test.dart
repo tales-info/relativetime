@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:relativetime/relativetime.dart';
+import 'package:relativetimeago/relativetime.dart';
 
 void main() {
   final reference = DateTime(
